@@ -1,3 +1,3 @@
-# streamlitAugment
+# streamlitQStocks
 
-App live at https://share.streamlit.io/ashhadulislam/streamlitqtuitions/main/main.py
+App live at https://ashhadulislam-streamlit-qatar-stocks-main-qlnvak.streamlit.app/
